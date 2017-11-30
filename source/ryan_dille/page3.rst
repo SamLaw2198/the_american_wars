@@ -1,2 +1,2 @@
-Page 3
-======
+Casualties in World War II
+==========================
