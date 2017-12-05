@@ -14,7 +14,7 @@ Welcome to The American Wars's documentation!
    josh_oconnor/civil_war_2
    josh_oconnor/civil_war_3
    josh_oconnor/civil_war_4
-   josh_osborne/page1
+   josh_osborne/vietnam_war
    josh_osborne/page2
    josh_osborne/page3
    josh_osborne/page4
