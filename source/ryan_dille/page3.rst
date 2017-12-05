@@ -8,13 +8,12 @@ totaled over 60 million. This does not just include military service personnel,
 this also includes civilians from cross fire, bombings, or even executions. At 
 the time of this war, the world population was estimated to be about 2.3 billion 
 people. This means that nearly 3% of the world’s population was killed in this
- war. Other experts say that the death toll could be closer to 80 million, over 
- half of these killed being civilians.
+war. Other experts say that the death toll could be closer to 80 million, over 
+half of these killed being civilians.
 
-=======         ==========
+============    ===========
 Country         Casualties
-=======         ==========
-
+============    ===========
 Soviet Union    25,000,000+
 China           15,000,000+
 Germany         8,000,000+
