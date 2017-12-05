@@ -18,12 +18,12 @@ Countries Involved
 ~~~~~~~~~~~~~~~~~~
 
 On July 7, 1937, something called the Marco Polo Bridge Incident led to a war
- between Japan and China, and on September 1, 1939, when Germany invaded Poland 
- Britain and France declared war on Germany in retaliation. This led other 
- countries to also declare war like Russia, Italy, and the United States.
+between Japan and China, and on September 1, 1939, when Germany invaded Poland 
+Britain and France declared war on Germany in retaliation. This led other 
+countries to also declare war like Russia, Italy, and the United States.
 
 End of the War
-==============
+~~~~~~~~~~~~~~
 
 World War II ended with the surrender of the Axis powers. On May 8, 1945, the 
 Allies accepted Germany's surrender about a week after Adolf Hitler committed 
@@ -31,4 +31,4 @@ suicide. While people were celebrating in Europe, there was still fighting going
 on in Japan. The atomic bombs dropped on Hiroshima and Nagasaki forced Japanese 
 emperor to also surrender which officially marked the end of World War II.
 
-.. image:: world_war.png
+.. image:: war.png
