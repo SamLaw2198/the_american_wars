@@ -6,12 +6,12 @@ Main reasons fighting in Vietnam was so difficult for Americans:
 * U.S. didn't know the land very well.
 
 * Because Viet Cong hid in tunnels, Americans were vulnerable not knowing where
-the enemy was coming from.
+	the enemy was coming from.
 
 * Bombs/Landmines were set everywhere.
 
 * It was hard to identify the enemy because Viet Cong would blend in with
-Vietnamese civilians.
+	Vietnamese civilians.
 
 As said on the previous page, this war was far different than any the United 
 States have been in before. All of the fighting took place in Vietnam, a giant 
@@ -35,5 +35,5 @@ civilians, dressed in everyday clothes, and would even surprise attack from
 there. It was extremely difficult for any of the troops to identify the enemy
 at any time.
 
-..image:: guerilla_warfare.png
+.. image:: guerilla_warfare.png
 	:width: 50%
