@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 U.S. Public Reaction
 ====================
 
@@ -6,3 +7,7 @@ Complete brutality from both sides of fighting, gore that had never been seen by
 The reports of the Tet Offensive stunned the U.S. public, especially when they heard that 200,000 troops were requested to be sent over for help. There was discontent all across the nation, protests and riots taking place in big cities everywhere. 
 The public was already very unhappy with how the war was being handled by U.S. officials, when in 1970, a joint operation took place where U.S and South Vietnamese troops invaded Cambodia to wipe out North Vietnam’s supply bases there. While this went on, South Vietnamese also invaded Laos.
 The invasion of these countries was in violation of international law, and sparked a new raging wave of protests on college campuses across America. One protest that took place on May 4, 1970 at Kent State University in Ohio, some National Guardsmen shot and killed four students. And then ten days later Jackson State University had a protest where two students were killed by police.
+=======
+Page 4
+======
+>>>>>>> 22b3cbaa03e495f63a37456664eaab3b93fa076b

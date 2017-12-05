@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 War Tactics
 ===========
 
@@ -5,3 +6,7 @@ As said on the previous page, this war was far different than any the United Sta
 The tactics of the Viet Cong were surprise attacks on U.S. troops with ambushes, sabotage, raids, etc. This is known as guerilla warfare. It is a hit and run tactic that is used when fighting a larger, less mobile army. It worked incredibly well for the Viet Cong as U.S. men had no idea where they were coming from or when they were coming.
 Another thing that made fighting in Vietnam tough was that bombs and land mines were set up all over when the Viet Cong knew the U.S. would be coming through, and it resulted in many casualties as well as many people losing limbs.
 One final thing that made it tough for the U.S. to fight in Vietnam was because when they came to small towns and villages, the Viet Cong blended in with the civilians, dressed in everyday clothes, and would even surprise attack from there. It was extremely difficult for any of the troops to identify the enemy at any time.
+=======
+Page 2
+======
+>>>>>>> 22b3cbaa03e495f63a37456664eaab3b93fa076b
