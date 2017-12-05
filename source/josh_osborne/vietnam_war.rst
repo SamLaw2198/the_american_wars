@@ -1,5 +1,7 @@
-Vietnam War, 1954-1975
+The Vietnam War
 ======================
+1954-1975
+---------
 
 The Vietnam War was a long and hard conflict that emerged from the communist government of North Vietnam. Then U.S. President John F. Kennedy came up with the "Domino Theory," which held that if one Southeast Asian country fell to communism, many other countries would follow. 
 
