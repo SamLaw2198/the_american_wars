@@ -22,10 +22,10 @@ Welcome to The American Wars's documentation!
    ryan_dille/page2
    ryan_dille/page3
    ryan_dille/page4
-   sam_law/page1
-   sam_law/page2
-   sam_law/page3
-   sam_law/page4
+   sam_law/rev_war1
+   sam_law/rev_war2
+   sam_law/rev_war3
+   sam_law/rev_war4
 
 
 Indices and tables
