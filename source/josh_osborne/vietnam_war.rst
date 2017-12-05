@@ -3,7 +3,7 @@ The Vietnam War
 1954-1975
 ---------
 
-..image:: vietnam_war.png
+.. image:: vietnam_war.png
 	:width: 50%
 
 The Vietnam War was a long and hard conflict that emerged from the communist 
