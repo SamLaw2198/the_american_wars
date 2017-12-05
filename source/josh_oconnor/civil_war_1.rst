@@ -8,6 +8,10 @@ The fighting started on July 21 with the Union charging into Confederate soldier
 After the battle was fought, the Union had lost approximately 3000. The Confederates had lost approximately 2000. This first battle showed the Union that if they wanted to win the war they needed to fight fiercely. President Lincoln was not going to get his quick and easy victory against the Confederates. 
 
 
+
+Resources
+---------
+
 http://www.history.com/this-day-in-history/the-first-battle-of-bull-run
 
 https://www.civilwar.org/learn/civil-war/battles/battle-bull-run-facts-summary
