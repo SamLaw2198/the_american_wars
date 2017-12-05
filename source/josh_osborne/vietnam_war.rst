@@ -27,10 +27,10 @@ innocent Vietnamese civilians, and includes over 58,000 American casualties.
 In January of 1973 the U.S. and North Vietnam came to a final peace agreement, 
 and the United Sates was officially out of the war.
 
-==========================  ==========
+================= ========  ==========
                   American  Vietnamese
-==========================  ==========
+================= ========  ==========
 Killed             58,148   2 million
 Wounded            304,000  3 million
 Became Refugees    None     12 million
-==========================  ==========
+================== =======  ==========
