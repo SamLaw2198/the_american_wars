@@ -27,5 +27,5 @@ National Guardsmen shot and killed four students. And then ten days later
 Jackson State University had a protest where two students were killed by 
 police.
 
-..image:: kent_state.png
+.. image:: kent_state.png
 	:width: 50%
