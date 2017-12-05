@@ -12,6 +12,11 @@ After the battle was fought, the Union had lost approximately 3000. The Confeder
 Resources
 ---------
 
-http://www.history.com/this-day-in-history/the-first-battle-of-bull-run
+`History`_
 
-https://www.civilwar.org/learn/civil-war/battles/battle-bull-run-facts-summary
+`Civil War`_
+
+
+.. _History: http://www.history.com/this-day-in-history/the-first-battle-of-bull-run
+
+.. _Civil War: https://www.civilwar.org/learn/civil-war/battles/battle-bull-run-facts-summary

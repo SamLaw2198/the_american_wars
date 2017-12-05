@@ -1,6 +1,9 @@
 Ironclads of the Civil War
 ==========================
 
+.. image:: monitor.jpg
+
+
 President Lincoln gave the first objective of his navy to blockade the entire southern coast. This would cut off the Confederates from the rest of the world. At the beginning of the war the Union had 40 navy ships to complete this task. President Lincoln also gave the order to construct more warships to help accomplish this task, but constructing more ships took time. 
 
 
