@@ -23,3 +23,7 @@ and children from Vietnamese villages that were dumped on.
 
 Video Link Below!
 
+`Agent Orange`_
+
+.. _Agent Orange: http://www.history.com/topics/vietnam-war/agent-orange
+
