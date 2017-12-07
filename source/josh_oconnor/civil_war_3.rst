@@ -17,9 +17,9 @@ shipyard but no warships. The confederates stuck to attacking the Northern
 merchant ships at sea.
 
 
-The confederates navy luck turned after they captured a northern naval base in 
+The confederate's navy luck turned after they captured a northern naval base in 
 Virginia. The *Merrimack* was one of the ships at port when the Confederates 
-took control. In order to outgun the Northern navy they converted the *Merrimack* 
+took control. In order to outgun the Northern navy, they converted the *Merrimack* 
 into an ironclad ship and renamed it *Virginia*. An ironclad ship is a ship with
 iron on the outside of the hull to prevent damage from cannon fire.
 
