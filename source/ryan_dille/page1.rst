@@ -32,3 +32,4 @@ on in Japan. The atomic bombs dropped on Hiroshima and Nagasaki forced Japanese
 emperor to also surrender which officially marked the end of World War II.
 
 .. image:: war.png
+	:width: 200%
