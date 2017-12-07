@@ -21,7 +21,7 @@ Poland          5,500,000+
 Japan           2,500,000+
 ============    ===========
 
-These countries are thought to have the most casualties in World War II. These 
+These countries above had the most casualties in World War II. These 
 countries had the largest influence in this war and it is shown in the amount of 
 casualties they have suffered over the war. Many other countries also 
 participated in this war but suffered nowhere near the amount of casualties as 
