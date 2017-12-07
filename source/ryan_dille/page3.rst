@@ -26,7 +26,8 @@ countries had the largest influence in this war and it is shown in the amount of
 casualties they have suffered over the war. Many other countries also 
 participated in this war but suffered nowhere near the amount of casualties as 
 these listed above. There are about 20 other countries that participated or 
-suffered casualties in this war that didn’t even total to over 500,000 casualties.
+suffered casualties in this war that didn’t even total to over 500,000 
+casualties.
 
 `Casualty count by country`_
 
