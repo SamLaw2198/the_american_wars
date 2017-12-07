@@ -26,11 +26,3 @@ Welcome to The American Wars's documentation!
    josh_osborne/page2
    josh_osborne/page3
    josh_osborne/page4
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
