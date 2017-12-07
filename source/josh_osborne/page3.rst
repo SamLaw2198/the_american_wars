@@ -5,7 +5,7 @@ Chemical Warfare
 	:width: 50%
 
 Chemical Warfare is just another reason that the Vietnam War sticks out. The
-main chemical that was used is known as Agent Orange. Agent Orange is a 
+main chemical that was used is known as **Agent Orange**. Agent Orange is a 
 powerful herbicide that was used by U.S. military forced to eliminate forest 
 cover and crops so that the troops would run out of important resources to
 survive. 
@@ -24,7 +24,7 @@ deal was not made about it. That is until the media captured some photos of the
 herbicide in action as well as some results that were left on innocent women
 and children from Vietnamese villages that were dumped on.
 
-Video Link Below!
+*Video Link Below!*
 
 `Agent Orange`_
 

@@ -20,7 +20,7 @@ This was a huge advantage for the Viet Cong, as they had underground tunnels
 made, so they were never in sight, and when they were they came out of nowhere. 
 
 The tactics of the Viet Cong were surprise attacks on U.S. troops with ambushes,
-sabotage, raids, etc. This is known as guerilla warfare. It is a hit and run 
+sabotage, raids, etc. This is known as **guerilla warfare**. It is a hit and run 
 tactic that is used when fighting a larger, less mobile army. It worked 
 incredibly well for the Viet Cong as U.S. men had no idea where they were
 coming from or when they were coming.
