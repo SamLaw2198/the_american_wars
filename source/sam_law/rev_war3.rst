@@ -27,7 +27,9 @@ any war before then.
 At this time, public support of independence in the Colonies has boosted
 significantly. On July 2, Congress voted in favor of independence in a landslide
 12-1 victory. Two days later on July 4, 1776, Congress issued its Declaration
-of Independence. The Patriots then passed the Test Acts in an attempt to find
+of Independence. 
+
+The Patriots then passed the Test Acts in an attempt to find
 those who were neutral or against independence, requiring Colonists to pledge 
 allegiance to the state they lived in. Failing to do so would result in 
 imprisonment or death. Congress then allowed states to confiscate the property
