@@ -6,8 +6,8 @@ The Vietnam War
 .. image:: vietnam_war.png
 	:width: 50%
 
-Overview
---------
+War Overview
+------------
 
 The Vietnam War was a long and hard conflict that emerged from the communist 
 government of North Vietnam. Then U.S. President John F. Kennedy came up with 
@@ -36,3 +36,8 @@ Killed            58,148    2 million
 Wounded           304,000   3 million
 Became Refugees   None      12 million
 ================= ========  ==========
+
+References
+----------
+
+*http://www.history.com/topics/vietnam-war/vietnam-war-history*

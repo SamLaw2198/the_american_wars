@@ -20,17 +20,16 @@ forces.
 Day 2
 ~~~~~
 
-On the second day, July 2nd , the confederate forces launched an attack on the 
+On the second day, July 2nd, the confederate forces launched an attack on the 
 Union forces that were holding various defensive positions on hills near 
-Gettysburg. This attack gained the Confederates some ground but not enough. On 
-the third on final day of the battle, 
+Gettysburg. This attack gained the Confederates some ground but not enough.
 
 Day 3
 ~~~~~
 
-July 3rd , General Lee ordered **Pickett’s Charge**. Pickett’s Charge was a 
-large-scale charge by **12,000** infantrymen straight down the middle of the 
-Union line.
+On the third on final day of the battle, July 3rd, General Lee ordered 
+**Pickett’s Charge**. Pickett’s Charge was a large-scale charge by **12,000** 
+infantrymen straight down the middle of the Union line.
 
 Day 4
 ~~~~~
@@ -48,7 +47,6 @@ Important People
    
    * General Lee
    * Pickette
-
 
 
 Resources
