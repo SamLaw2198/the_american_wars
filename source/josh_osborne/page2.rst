@@ -6,12 +6,15 @@ Main reasons fighting in Vietnam was so difficult for Americans:
 * U.S. didn't know the land very well.
 
 * Because Viet Cong hid in tunnels, Americans were vulnerable not knowing where
-	the enemy was coming from.
+the enemy was coming from.
 
 * Bombs/Landmines were set everywhere.
 
 * It was hard to identify the enemy because Viet Cong would blend in with
-	Vietnamese civilians.
+Vietnamese civilians.
+
+Guerilla Warfare
+----------------
 
 As said on the previous page, this war was far different than any the United 
 States have been in before. All of the fighting took place in Vietnam, a giant 
@@ -20,7 +23,7 @@ This was a huge advantage for the Viet Cong, as they had underground tunnels
 made, so they were never in sight, and when they were they came out of nowhere. 
 
 The tactics of the Viet Cong were surprise attacks on U.S. troops with ambushes,
-sabotage, raids, etc. This is known as guerilla warfare. It is a hit and run 
+sabotage, raids, etc. This is known as **guerilla warfare**. It is a hit and run 
 tactic that is used when fighting a larger, less mobile army. It worked 
 incredibly well for the Viet Cong as U.S. men had no idea where they were
 coming from or when they were coming.

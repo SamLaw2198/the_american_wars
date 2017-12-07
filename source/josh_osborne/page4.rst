@@ -1,6 +1,9 @@
 U.S. Public Reaction
 ====================
 
+Protests
+--------
+
 As you know, the Vietnam War was the first war to actually be covered by the
 media, which everyone thought would be pretty cool. Until the citizens of the
 United States saw pictures and videos of what truly went on at war. 
