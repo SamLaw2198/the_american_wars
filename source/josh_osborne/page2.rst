@@ -13,6 +13,9 @@ Main reasons fighting in Vietnam was so difficult for Americans:
 * It was hard to identify the enemy because Viet Cong would blend in with
 	Vietnamese civilians.
 
+Guerilla Warfare
+----------------
+
 As said on the previous page, this war was far different than any the United 
 States have been in before. All of the fighting took place in Vietnam, a giant 
 jungle of a country, and U.S. troops did not know the lay of the land at all. 

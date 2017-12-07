@@ -6,6 +6,9 @@ The Vietnam War
 .. image:: vietnam_war.png
 	:width: 50%
 
+Overview
+--------
+
 The Vietnam War was a long and hard conflict that emerged from the communist 
 government of North Vietnam. Then U.S. President John F. Kennedy came up with 
 the "Domino Theory," which held that if one Southeast Asian country fell to 
