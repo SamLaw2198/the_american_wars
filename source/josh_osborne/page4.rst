@@ -32,3 +32,8 @@ police.
 
 .. image:: kent_state.png
 	:width: 50%
+
+References
+----------
+
+*http://www.history.com/topics/kent-state-shooting*

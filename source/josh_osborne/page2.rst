@@ -40,3 +40,8 @@ at any time.
 
 .. image:: guerilla_warfare.png
 	:width: 50%
+
+References
+----------
+
+*http://www.history.com/topics/vietnam-war/vietnam-war-history*

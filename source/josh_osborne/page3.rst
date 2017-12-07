@@ -33,3 +33,8 @@ and children from Vietnamese villages that were dumped on.
 
 .. _Agent Orange: http://www.history.com/topics/vietnam-war/agent-orange
 
+References
+----------
+
+*http://www.history.com/topics/vietnam-war/vietnam-war-history*
+
