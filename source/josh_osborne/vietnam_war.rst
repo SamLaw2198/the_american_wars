@@ -12,7 +12,7 @@ the "Domino Theory," which held that if one Southeast Asian country fell to
 communism, many other countries would follow. 
 
 The United States intervened in 1954 in fear of the Domino Theory as stated 
-above. The Vietnamese Communists became known as the Viet Cong.
+above. The Vietnamese Communists became known as the **Viet Cong**.
 This war is much different than any the United States have been involved with
 before due to all of the combat taking place on alien turf, leading to what is
 called guerilla warfare. Also the use of chemical warfare, primarily Agent 
